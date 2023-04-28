@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={{flex:1}}>
       <StatusBar hidden />
-      <WebView source={{uri: 'https://github.com/6derick6'}}/>
+      <WebView source={{uri: 'https://meuip/6derick6'}}/>
     </View>
     
   );
